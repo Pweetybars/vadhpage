@@ -1,0 +1,58 @@
+.mainbox{
+  
+  margin-left: 450px  ;
+  width: 1000px;
+  height: 1500px;
+  border-radius: 30px;
+
+}
+.profile-picture{
+  width: 270px;
+  height: 270px;
+  border-radius: 45px;
+  margin-top: 20px;
+  margin-left: 365px;
+}
+.twitter{
+  margin-top: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 30px;
+  margin-left: 110px;
+}
+.facebook,
+.github,
+.linkedin{
+  margin-top: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 30px;
+  margin-left: 80px;
+}
+.media-div{
+  margin-top: 180px;
+  margin-left: 100px;
+  margin-bottom: 120px;
+  height: 100px;
+  width: 800px;
+  border: 2px;
+  border-color: lightgoldenrodyellow;
+  border-style: solid;
+  border-radius: 25px;
+}
+.Information{
+  margin-left: 130px;
+  margin-top: 40px;
+}
+.MyName{
+  color: blue;
+  font-family: Bungee Spice;
+  font-size: 60px;
+}
+.Jobs{
+  color: black;
+  font-family: Roboto Mono;
+  font-size: 40px;
+}
+
+
